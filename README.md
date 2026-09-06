@@ -1,1 +1,0 @@
-# soec-polarization-analysis
